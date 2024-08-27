@@ -1,0 +1,19 @@
+['age_band_Codes', 'disability_Codes', 'gender_Codes', 'highest_education_Codes', 'imd_band_Codes', 'regions']
+[[15.8456406 ],
+ [ 0.57314376],
+ [ 2.21794853],
+ [25.22004897],
+ [29.33179128],
+ [26.81142687]]
+[[ 2,  6,  1],
+ [ 6, 57,  7],
+ [ 0,  9,  1]]
+              precision    recall  f1-score   support
+
+           0       0.25      0.22      0.24         9
+           1       0.79      0.81      0.80        70
+           2       0.11      0.10      0.11        10
+
+    accuracy                           0.67        89
+   macro avg       0.38      0.38      0.38        89
+weighted avg       0.66      0.67      0.67        89
